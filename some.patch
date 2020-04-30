@@ -1,0 +1,14 @@
+diff --git a/some.file b/some.file
+index b9c1bd8..9d7938d 100644
+--- a/some.file
++++ b/some.file
+@@ -1,5 +1,4 @@
+-New line
+-Hello git!!!!
+-Git is awesome...
+-Third line
+-99999
++Hello git!
++Git is awesome.
++Third line.
++
